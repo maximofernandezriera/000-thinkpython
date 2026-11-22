@@ -1,22 +1,35 @@
 # Búsqueda secuencial y binaria
 
-Clase de unos 55 minutos. El material de alumnos y el del profesor se distinguen por su nombre y por las secciones siguientes. Los archivos del curso anteriores a esta carpeta no se sustituyen.
+Clase de unos 55 minutos.
 
 ## Alumnos
 
-- [Cuaderno de ejercicios](cuaderno_alumnos_busqueda.ipynb): descarga el archivo y súbelo a Google Colab con Archivo > Subir cuaderno. Las funciones están por completar y los tests empiezan en 0/N.
-- [Pizarra de apertura](pizarra_apertura_render.png) y [versión editable](pizarra_apertura.excalidraw).
-- Animaciones: [secuencial](busqueda_secuencial.gif), [binaria](busqueda_binaria.gif) y [comparación](comparacion.gif).
+[Cuaderno de ejercicios](cuaderno_alumnos_busqueda.ipynb). Las funciones están por completar y los tests empiezan en 0/N. Descárgalo y ábrelo en Google Colab con Archivo > Subir cuaderno.
 
-## Profesor y ejemplos resueltos
+## Descarga completa: alumnos y profesor
 
-Estos archivos contienen respuestas. Para intentar los ejercicios sin verlas, empieza por el cuaderno de alumnos.
+[Descargar todos los materiales en ZIP](https://github.com/user-attachments/files/35235082/18-busquedas-material-completo.zip). Incluye el cuaderno, la guía del profesor, las soluciones Python, siete ejemplos resueltos de PythonTutor, las dos pizarras editables de Excalidraw, dos PNG y tres GIFs. Los archivos del profesor contienen respuestas; para intentar los ejercicios sin verlas, empieza por el cuaderno de alumnos.
 
-- [Guía del profesor](guia_profesor.txt).
-- [Soluciones en Python](soluciones_profesor.py).
-- [Pizarra con traza y código](pizarra_profesor_render.png) y [versión editable](pizarra_profesor.excalidraw).
-- [Siete ejemplos de PythonTutor](pythontutor_enlaces.txt): incluyen código completo. El último muestra un bucle infinito deliberado.
+Los PNG y GIF también se pueden consultar aquí:
 
-Las pizarras editables se abren en Excalidraw. Los PNG y GIF se ven directamente.
+### Pizarra de apertura
 
-Referencia didáctica: *Grokking Algorithms*, capítulos 1 y 2. El cuaderno incluye las referencias del código.
+![Pizarra de apertura](https://github.com/user-attachments/assets/988fea95-b219-430e-abc5-e808d0a9d7e2)
+
+### Búsqueda secuencial
+
+![Búsqueda secuencial](https://github.com/user-attachments/assets/7f2ac483-b396-418c-9722-52c01eea7b52)
+
+### Búsqueda binaria
+
+![Búsqueda binaria](https://github.com/user-attachments/assets/95724cde-01f1-4e91-96d2-e4c60e1f72ef)
+
+### Comparación
+
+![Comparación](https://github.com/user-attachments/assets/8b323164-3fb5-4aab-91e6-c4a00580da61)
+
+### Profesor: traza y código resuelto
+
+![Profesor: traza y código resuelto](https://github.com/user-attachments/assets/ad40ccd4-114a-40e6-b8af-28157ac77727)
+
+Referencia didáctica: *Grokking Algorithms*, capítulos 1 y 2. El cuaderno incluye las referencias del código. El material anterior del curso no se sustituye.
